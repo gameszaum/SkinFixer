@@ -1,0 +1,5 @@
+name: SkinFixer
+version: 1.0
+main: br.com.shieldgames.skinfixer.Main
+author: gameszaum
+commands:
